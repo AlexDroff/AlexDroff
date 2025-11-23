@@ -19,9 +19,7 @@ HTML5 | CSS3 | Responsive/Adaptive Design | GIT | JavaScript | React | Redux | H
 ---
 
 ## 🗣️ Languages
-![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)  
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  
-![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)  |  ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  |  ![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
 ---
 
