@@ -1,50 +1,33 @@
-## Hi, I'm Oleksandr Aleksandrov 👋
+# Олександр Олександров
+Junior Fullstack Developer | React | Node.js  
 
-<!--
-**AlexDroff/AlexDroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Skilled in creating responsive and adaptive web applications, integrating REST APIs, and implementing modern frontend and backend solutions. Strong problem-solving skills and experience working in Agile/Scrum environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 
+## 🧰 Tech Stack
+HTML5 | CSS3 | Responsive/Adaptive Design | GIT | JavaScript | React | Redux | Handlebars | Webpack | Node.js | MongoDB
 
-## Junior Fullstack Developer | React | Node.js
+---
 
-Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Building single-page applications, integrating REST API, and developing responsive and adaptive UI components. Experience working in Agile/Scrum, applying best practices in coding, Git workflows, and performance optimisation. Strong analytical thinking and a proactive approach to scalable web solutions.
+## 💻 Featured Projects
+- [Filmoteka](https://alexandroff.pl/web-projects.html#filmoteka) – Movie search web app with React, REST API, and localStorage. Features include movie search, details, “Watched” and “Queue” lists.  
+- [IceCream Landing](https://alexandroff.pl/web-projects.html#icecream) – Responsive landing page built with HTML5, CSS3 (SASS), and JavaScript using BEM methodology. Developed in a team environment.  
+- [Other Projects](https://alexandroff.pl/web-projects.html) – More web applications and front-end projects.
 
-## Tech Stack
-JavaScript | TypeScript | Node.js | React | Next.js
+---
 
-## Featured Projects
+## 🗣️ Languages
+![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)  
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  
+![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
-- **Filmoteka**  
-  Movie search application built with React, REST API, and localStorage. Includes movie search, detailed pages, and “Watched/Queue” lists.  
-  https://github.com/yourusername/filmoteka
+---
 
-- **IceCream Landing**  
-  Responsive landing page developed in a team using HTML5, CSS3 (SASS), JavaScript, and BEM methodology.  
-  https://github.com/yourusername/icecream-team-project
+## 📫 Contacts
+[LinkedIn](https://www.linkedin.com/in/oleksandr-aleksandrov/) | [Telegram](https://t.me/yourusername) | [Portfolio](https://alexandroff.pl/) | [Email](mailto:youremail@gmail.com)
 
-## Languages
-English — B2  
-Ukrainian — Native  
-Polish — A2  
+---
 
-## Contacts
-LinkedIn: https://www.linkedin.com/in/oleksandr-aleksandrov/  
-Portfolio: https://alexandroff.pl/  
-Telegram: https://t.me/yourusername  
-Email: youremail@gmail.com
-
-## Additional
-GitHub Readme Stats  
-Badges for tech stack and languages  
-Portfolio link included above
+## 📊 GitHub Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&hide=html,css)
