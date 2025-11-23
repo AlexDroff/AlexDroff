@@ -1,10 +1,6 @@
-## 👋 Hi, I'm Oleksandr Aleksandrov
+# 👋 Hi, I'm Oleksandr Aleksandrov
 
----
-
-Junior Fullstack Developer | React | Node.js  
-
----
+# Junior Fullstack Developer | React | Node.js  
 
 Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Skilled in creating responsive and adaptive web applications, integrating REST APIs, and implementing modern frontend and backend solutions. Strong problem-solving skills and experience working in Agile/Scrum environments.
 
