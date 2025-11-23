@@ -31,5 +31,5 @@ HTML5 | CSS3 | Responsive/Adaptive Design | GIT | JavaScript | React | Redux | H
 ---
 
 ## 📊 GitHub Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandraleksandrov&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDroff&layout=compact)
 
