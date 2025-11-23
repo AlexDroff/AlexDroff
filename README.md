@@ -1,5 +1,10 @@
 # Олександр Олександров
+
+---
+
 Junior Fullstack Developer | React | Node.js  
+
+---
 
 Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Skilled in creating responsive and adaptive web applications, integrating REST APIs, and implementing modern frontend and backend solutions. Strong problem-solving skills and experience working in Agile/Scrum environments.
 
@@ -19,7 +24,7 @@ HTML5 | CSS3 | Responsive/Adaptive Design | GIT | JavaScript | React | Redux | H
 ---
 
 ## 🗣️ Languages
-![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)  |  ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  |  ![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-A1-blue?style=flat-square)   ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)   ![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
 ---
 
