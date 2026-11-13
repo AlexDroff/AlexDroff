@@ -26,7 +26,7 @@ HTML5 | CSS3 | Responsive/Adaptive Design | GIT | JavaScript | React | Redux | H
 ---
 
 ## 📫 Contacts
-[LinkedIn](https://www.linkedin.com/in/oleksandr-aleksandrov/) | [Telegram](https://t.me/Oleksandr_Alexandrov) | [Portfolio](https://loadingstudio.pl/) | [Email](mailto:alldroff@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-aleksandrov/) | [Telegram](https://t.me/Oleksandr_Alexandrov) | [Portfolio](https://loadingstudio.pl/) | [Email](mailto:olexandr.alexandroff@gmail.com)
 
 ---
 
